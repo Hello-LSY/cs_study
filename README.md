@@ -1,13 +1,10 @@
-# CS 스터디
+## 스터디 소개
 스터디원이 학습한 내용을 저장하고 모아둔 CS 스터디 리포지토리입니다.
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Hello-LSY/cs_study?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/Hello-LSY/cs_study?style=social)
 ![GitHub issues](https://img.shields.io/github/issues/Hello-LSY/cs_study)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/Hello-LSY/cs_study)
-
-
-## 스터디 소개
 
 ## 스터디 구성원
 
