@@ -8,7 +8,7 @@
 
 ## 스터디 구성원
 
-| [<img src="https://github.com/Hello-LSY.png" width="100">](https://github.com/Hello-LSY) | [<img src="https://github.com/sungheonkim.png" width="100">](https://github.com/username2) | [<img src="https://github.com/realcold0.png" width="100">](https://github.com/realcold0) | [<img src="https://github.com/Taeyong98.png" width="100">](https://github.com/username2) |
+| [<img src="https://github.com/Hello-LSY.png" width="100">](https://github.com/Hello-LSY) | [<img src="https://github.com/sungheonkim.png" width="100">](https://github.com/sungheonkim) | [<img src="https://github.com/realcold0.png" width="100">](https://github.com/realcold0) | [<img src="https://github.com/Taeyong98.png" width="100">](https://github.com/Taeyong98) |
 |:---:|:---:|:---:|:---:|
 | [이신영](https://github.com/Hello-LSY) | [김성헌](https://github.com/sungheonkim) | [김승환](https://github.com/realcold0) | [장태용](https://github.com/Taeyong98) |
 
